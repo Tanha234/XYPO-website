@@ -1,0 +1,186 @@
+
+/* ----------Heading part -----------*/
+
+.logo{
+    margin-bottom: 40px;
+}
+
+.container{
+    display: flex;
+    margin-left: 150px;
+}
+.header-img{
+   height:150%;
+   width: 100%
+   
+}
+.first-part{
+    height: 200px;
+    width: 800px;
+    font-size: 19px;
+    margin-bottom: 100px;
+   
+  
+   
+}
+.heading-button{
+    margin-top: 40px;
+    border:1px solid pink;
+    padding: 13px;
+    padding-left: 15px;
+    padding-right: 15px;
+   
+  
+}
+
+/*--------------------------------------------------------------------- --- */
+.logo-social{
+    position: fixed;
+}
+.potion-1{
+    height: 100%;
+   width: 100%
+   
+}
+.about{
+    display: flex;
+    
+}
+.second-potion{
+    height: 200px;
+    width: 800px;
+    font-size: 19px;
+    margin-bottom: 100px;
+    margin-top: 300px;
+}
+.about-text{
+    margin-left: 350px;
+}
+.color{
+    color: grey;
+   
+    
+}
+.poet{
+
+margin-left: 400px;
+color: grey;
+}
+.fix-img{
+    height: 40%;
+    width: 40%;
+    margin-left: 70px;
+}
+.div-1,.browse{
+    display: flex;
+    margin-left: 300px;
+    margin-right: 200px;
+}
+.text-fix{
+ 
+    margin-left: 70px;
+}
+.fix-div{
+    height: 200px;
+    width: 300px;
+}
+.fixing{
+    margin-left: 40px;
+
+}
+.button{
+    margin-top: 40px;
+    border:4px solid pink;
+    padding: 13px;
+    padding-left: 15px;
+    padding-right: 15px;
+    margin-left: 700px;
+}
+.browse-img{
+    height: 50%;
+    width: 50%;
+}
+.browse-part-1{
+    margin-right: 200px;
+    font-size: 17px;
+   
+   
+  
+}
+.browse{
+    margin-top: 100px
+}
+.learning,.offer{
+    display: flex;
+}
+
+
+.input-filed1,.input-filed2,.input-filed3{
+    padding: 20px;
+    padding-right: 150px;
+    color: pink;
+    margin-bottom: 10px;
+   
+    
+}
+.offer-img{
+    height: 100%;
+    width: 100%;
+}
+
+.offer{
+    margin-left: 200px;
+    margin-bottom: 50px;
+}
+.offer-text{
+    margin-right: 200px;
+}
+.offer-button{
+    padding: 20px;
+    padding-left: 55px;
+    padding-right: 60px;
+    margin-right: 10px;
+    color: palevioletred;
+}
+footer{
+    border-top: 2px solid pink;
+        display: flex;
+        margin-left: 100px;
+}
+.footer-clr{
+    color: pink;
+}
+.footer-class{
+    
+    margin-right: 90px;
+    height: 60px;
+    width: 100px;
+    margin-top: 20px;
+}
+.footer-class1{
+    margin-right: 40px;
+    margin-top: 40px;
+    height: 60px;
+    width: 100px;
+    margin-right: 100px;
+    margin-left: 40px;
+}
+.footer-class2{
+    margin-right: 40px;
+    margin-top: 40px;
+    height: 60px;
+    width: 100px;
+    margin-left: 60px;
+}
+.footer-button{
+    padding: 10px;
+    padding-right: 70px;
+    padding-left: 70px;
+}
+@media only screen and (min-device-width: 480px) {
+    header{
+        flex-direction: column;
+        width: 30%;
+        
+    }
+}
